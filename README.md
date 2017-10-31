@@ -1,2 +1,5 @@
 # hello-word
-Just another repository
+
+Hi Hello EveryOne!
+
+Failure Keep You Humble.
